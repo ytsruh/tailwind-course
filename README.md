@@ -15,3 +15,8 @@ Project was created from the course on Udemy
 ## Main Projects
 
 - Clipboard - [Link](https://ytsruh.github.io/tailwind-course/clipboard/index.html)
+- Loopstudios - [Link](https://ytsruh.github.io/tailwind-course/loopstudios/index.html)
+- Shortly - [Link](https://ytsruh.github.io/tailwind-course/shortly/index.html)
+- Testimonial Grid - [Link](https://ytsruh.github.io/tailwind-course/testimonial/index.html)
+- Fylo - [Link](https://ytsruh.github.io/tailwind-course/fylo/index.html)
+- Bookmark - [Link](https://ytsruh.github.io/tailwind-course/bookmark/index.html)
